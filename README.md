@@ -1,4 +1,4 @@
-<img src="https://github.com/GlazeDonuts/GlazeDonuts/blob/master/resources/alien.gif"/>
+<img src="https://github.com/GlazeDonuts/GlazeDonuts/blob/master/resources/alien2.gif"/>
 
 ### Hi there 👋
 <!--
