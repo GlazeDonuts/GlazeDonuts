@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GIF](https://github.com/GlazeDonuts/GlazeDonuts/blob/master/resources/alien.gif =444x444)
+![GIF](https://github.com/GlazeDonuts/GlazeDonuts/blob/master/resources/alien.gif =444x)
 <!--
 **GlazeDonuts/GlazeDonuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
