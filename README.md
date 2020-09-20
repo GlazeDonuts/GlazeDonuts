@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/GlazeDonuts/GlazeDonuts/blob/master/resources/alien.gif"/>
+</p>
 
 ### Hey there 👋
 
@@ -12,4 +14,6 @@
 - ⚡ Fun fact: I am not even fit, let alone Fitter X)
 
 ---
+<p align="center">
 ![Khurshed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlazeDonuts&show_icons=true&theme=algolia&count_private=True&title_color=89cff0)
+</p>
