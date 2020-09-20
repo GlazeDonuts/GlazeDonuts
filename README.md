@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at IvLabs, an AI and Robotics community.
-- 🌱 I have been learning and tinkering with Relativistic Quantum Mechanics, Quantum Computing, Deep Learning and Natural Language Processing.
+- 🌱 I have been learning and tinkering with Relativistic Quantum Mechanics, Quantum Computing, Deep Learning and NLP.
 - 👯 I'd be glad collaborate over Quantum Machine Learning, Deep Learning or Physics research and projects.
 - 🤔 I plan on studying and teaching theoretical physics, specifically, Quantum Mechanics
 - 💬 Send me emails or letters if you want to talk about the stuff mentioned above or anything.
