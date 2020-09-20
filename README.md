@@ -1,5 +1,5 @@
 ### Hi there 👋
-<image src = https://github.com/GlazeDonuts/GlazeDonuts/edit/master/resources/alien.gif>
+1[GIF](https://github.com/GlazeDonuts/GlazeDonuts/edit/master/resources/alien.gif)
 <!--
 **GlazeDonuts/GlazeDonuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
