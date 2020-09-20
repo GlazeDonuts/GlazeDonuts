@@ -15,5 +15,5 @@
 
 ---
 <p align="center">
-![Khurshed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlazeDonuts&show_icons=true&theme=algolia&count_private=True&title_color=89cff0)
+<img src="https://github-readme-stats.vercel.app/api?username=GlazeDonuts&show_icons=true&theme=algolia&count_private=True&title_color=89cff0"/>
 </p>
