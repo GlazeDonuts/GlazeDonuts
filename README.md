@@ -4,10 +4,11 @@
 
 - 🔭 I’m currently working at IvLabs, an AI and Robotics community.
 - 🌱 I have been learning and tinkering with Relativistic Quantum Mechanics, Quantum Computing, Deep Learning and NLP.
-- 👯 I'd be glad collaborate over Quantum Machine Learning, Deep Learning or Physics research and projects.
-- 😄 I plan on studying and teaching theoretical physics, specifically, Quantum Mechanics
+- 👯 I'd be glad to collaborate over Quantum Machine Learning, Deep Learning or Physics research and projects.
+- 😄 I plan on studying and teaching theoretical physics, specifically, Quantum Mechanics.
 - 💬 Send me emails, papers or poems if you want to talk about literature, physics or anything.
 - 📫 You can ping me at khurshed.p.fitter@gmail.com
+- 🤔 I find myself pondering over human thought processes, a bit too much.
 - ⚡ Fun fact: I am not even fit, let alone Fitter X)
 
 ---
