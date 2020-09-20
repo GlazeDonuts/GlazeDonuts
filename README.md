@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<image src = https://github.com/GlazeDonuts/GlazeDonuts/edit/master/resources/alien.gif>
 <!--
 **GlazeDonuts/GlazeDonuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+![Khurshed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlazeDonuts&show_icons=true&theme=algolia&count_private=True&title_color=89cff0)
