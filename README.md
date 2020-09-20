@@ -2,7 +2,7 @@
 
 ### Hey there 👋
 
-- 🔭 I’m currently working at IvLabs, an AI and Robotics community.
+- 🔭 I’m currently working at [IvLabs](https://www.ivlabs.in/), an AI and Robotics community.
 - 🌱 I have been learning and tinkering with Relativistic Quantum Mechanics, Quantum Computing, Deep Learning and NLP.
 - 👯 I'd be glad to collaborate over Quantum Machine Learning, Deep Learning or Physics research and projects.
 - 😄 I plan on studying and teaching theoretical physics, specifically, Quantum Mechanics.
