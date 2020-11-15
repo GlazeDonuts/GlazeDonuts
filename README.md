@@ -11,7 +11,7 @@
 - 💬 Send me emails, papers or poems if you want to talk about literature, physics or anything.
 - 📫 You can ping me at khurshed.p.fitter@gmail.com
 - 🤔 I find myself pondering over human thought processes, a bit too much.
-- ⚡ Fun fact: I am not even fit, let alone Fitter X)
+- ⚡ Fun fact: I am not even fit, let alone Fitter x)
 
 ---
 <p align="center">
