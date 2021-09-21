@@ -5,6 +5,7 @@
 ### Hey there 👋
 
 - 🔭 I’m a member of [IvLabs](https://www.ivlabs.in/), an AI and Robotics community.
+
 - 🌱 I have been learning and tinkering with Physics, Quantum Information and Deep Learning.
 <!-- - 👯 I'd be glad to collaborate over Quantum Machine Learning, Deep Learning or Physics research and projects. -->
 - 😄 I plan on studying and teaching theoretical physics.
