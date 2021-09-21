@@ -12,7 +12,7 @@
 <!-- - 💬 Send me emails,  if you want to talk about literature, physics or anything. -->
 - 📫 My [mailbox](mailto:kurshed.p.fitter@gmail.com) is open for all literature, scientific and creative.
 <!-- - 🤔 I find myself pondering over human thought processes, a bit too much. -->
-- 🤗 Feel free to reach out for any collaboratios.
+- 🤗 Feel free to reach out for any collaboratio.
 
 - 👀 Fun fact: I am not even fit, let alone Fitter x)
 
